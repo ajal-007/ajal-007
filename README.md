@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋, I'm Ajal
 
-<!--
-**ajal-007/ajal-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Flutter Developer | Learning Backend & Security
+🚀 Interested in Mobile Development, APIs, and Cybersecurity
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+
+* 🌱 Currently learning **Flutter & Firebase**
+* 📱 Building **Mobile Apps using Flutter**
+
+---
+
+### 🚀 Tech Stack
+
+* Flutter
+* Dart
+* Firebase
+* REST API
+* Git & GitHub
+
+---
+
+### 📊 GitHub Stats
+
+![Ajal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajal-007\&show_icons=true\&theme=tokyonight)
+
+---
+
+### 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ajal-007\&theme=tokyonight)
+
+---
+
+### 📫 Connect With Me
+
+* GitHub: https://github.com/ajal-007
